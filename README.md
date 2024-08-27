@@ -1,6 +1,8 @@
 # quiz
 
 A new Flutter project.
+This is the third project I have uploaded in github 
+This application is made in flutter using dart language, it contains Quiz of some basic questions of flutter .
 
 ## Getting Started
 
